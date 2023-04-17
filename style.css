@@ -1,0 +1,34 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/* Example of a CSS rule that changes the text color of an h3 tag */
+h3{
+  color:#000000;
+}
+
+p{
+  color: #e392fe;
+}
+body{
+  background-color:#e0edd4;
+}
+img {
+ border-radius: 50%;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+
+  
+
+
